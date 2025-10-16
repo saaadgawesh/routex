@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:routex_app/profile.dart';
+import 'package:routex_app/features/view/profile.dart';
 
 customshowLogoutDialog(BuildContext context) {
   showDialog(
