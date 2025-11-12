@@ -121,7 +121,7 @@ Git
 
 استنساخ المشروع
 
-bashgit clone https://github.com/your-repo/routex-app.git
+bashgit clone https://github.com/saaadgawesh/routex-app.git
 cd routex-app
 
 تثبيت المكتبات
